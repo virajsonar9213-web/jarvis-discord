@@ -1,0 +1,159 @@
+2026-11-20 17:36:08 - JARVIS - INFO - ==================================================
+2026-11-20 17:36:08 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 17:36:08 - JARVIS - INFO - ==================================================
+2026-11-20 17:36:08 - JARVIS - INFO - Connecting to Discord with token: ********************************************************************LHh4
+2026-11-20 17:36:10 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 17:36:12 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 17:36:13 - JARVIS - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2026-11-20 17:40:22 - JARVIS - INFO - ==================================================
+2026-11-20 17:40:22 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 17:40:22 - JARVIS - INFO - ==================================================
+2026-11-20 17:40:22 - JARVIS - INFO - Connecting to Discord with token: ********************************************************************LHh4
+2026-11-20 17:40:23 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 17:40:24 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 17:40:25 - JARVIS - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2026-11-20 17:55:16 - JARVIS - INFO - ==================================================
+2026-11-20 17:55:16 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 17:55:16 - JARVIS - INFO - ==================================================
+2026-11-20 17:55:16 - JARVIS - INFO - Connecting to Discord with token: ********************************************************************LHh4
+2026-11-20 17:55:17 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 17:55:18 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 17:55:27 - JARVIS - ERROR - Failed to start bot: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2026-11-20 17:56:10 - JARVIS - INFO - ==================================================
+2026-11-20 17:56:10 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 17:56:10 - JARVIS - INFO - ==================================================
+2026-11-20 17:56:10 - JARVIS - INFO - Connecting to Discord with token: ********************************************************************LHh4
+2026-11-20 17:56:12 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 17:56:13 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 17:56:16 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 17:56:16 - JARVIS.events.on_ready - INFO - Application commands sync initiated
+2026-11-20 17:56:16 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 17:56:16 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 17:56:28 - JARVIS - INFO - ==================================================
+2026-11-20 17:56:28 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 17:56:28 - JARVIS - INFO - ==================================================
+2026-11-20 17:56:28 - JARVIS - INFO - Connecting to Discord with token: ********************************************************************LHh4
+2026-11-20 17:56:30 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 17:56:30 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 17:56:33 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 17:56:33 - JARVIS.events.on_ready - INFO - Application commands sync initiated
+2026-11-20 17:56:33 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 17:56:33 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 17:58:53 - JARVIS - INFO - ==================================================
+2026-11-20 17:58:53 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 17:58:53 - JARVIS - INFO - ==================================================
+2026-11-20 17:58:53 - JARVIS - INFO - Connecting to Discord with token: ********************************************************************LHh4
+2026-11-20 17:58:55 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 17:58:55 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 17:58:58 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 17:58:58 - JARVIS.events.on_ready - INFO - Application commands sync initiated
+2026-11-20 17:58:58 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 17:58:58 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:03:36 - JARVIS - INFO - ==================================================
+2026-11-20 18:03:36 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:03:36 - JARVIS - INFO - ==================================================
+2026-11-20 18:03:37 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:03:38 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:03:38 - JARVIS.bot - INFO - Synced 9 slash command(s) with Discord
+2026-11-20 18:03:38 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:03:41 - JARVIS.bot - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:03:41 - JARVIS.bot - ERROR - Failed to initialize database: '_io.TextIOWrapper' object does not support the asynchronous context manager protocol
+2026-11-20 18:03:42 - JARVIS.gemini - INFO - Gemini client initialized with model: gemini-2.5-flash
+2026-11-20 18:03:42 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:03:42 - JARVIS.events.on_ready - INFO - Application commands sync initiated
+2026-11-20 18:03:42 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 18:03:42 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:04:13 - JARVIS - INFO - ==================================================
+2026-11-20 18:04:13 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:04:13 - JARVIS - INFO - ==================================================
+2026-11-20 18:04:15 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:04:15 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:04:17 - JARVIS.bot - INFO - Synced 9 slash command(s) with Discord
+2026-11-20 18:04:17 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:04:20 - JARVIS.bot - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:04:21 - JARVIS.gemini - INFO - Gemini client initialized with model: gemini-2.5-flash
+2026-11-20 18:04:21 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:04:21 - JARVIS.events.on_ready - INFO - Application commands sync initiated
+2026-11-20 18:04:21 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 18:04:21 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:07:15 - JARVIS - INFO - JARVIS shutdown initiated by user
+2026-11-20 18:07:22 - JARVIS - INFO - ==================================================
+2026-11-20 18:07:22 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:07:22 - JARVIS - INFO - ==================================================
+2026-11-20 18:07:23 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:07:24 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:07:24 - JARVIS.bot - INFO - Synced 9 slash command(s) with Discord
+2026-11-20 18:07:24 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:07:28 - JARVIS.bot - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:07:29 - JARVIS.gemini - INFO - Gemini client initialized with model: gemini-2.5-flash
+2026-11-20 18:07:29 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:07:29 - JARVIS.events.on_ready - INFO - Application commands sync initiated
+2026-11-20 18:07:29 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 18:07:29 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:07:53 - JARVIS.commands.ask - INFO - /ask command from mr3sheep
+2026-11-20 18:08:34 - JARVIS.commands.ask - INFO - /ask command from retro.fr_
+2026-11-20 18:09:25 - JARVIS.commands.ask - INFO - /ask command from mr3sheep
+2026-11-20 18:12:37 - JARVIS - INFO - ==================================================
+2026-11-20 18:12:37 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:12:37 - JARVIS - INFO - ==================================================
+2026-11-20 18:12:38 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:12:38 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:12:39 - JARVIS.bot - INFO - Synced 9 slash command(s) with Discord
+2026-11-20 18:12:39 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:12:43 - JARVIS.gemini - INFO - Gemini client initialized with model: gemini-2.5-flash
+2026-11-20 18:12:43 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:12:43 - JARVIS.events.on_ready - INFO - Application commands sync initiated
+2026-11-20 18:12:43 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 18:12:43 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:13:27 - JARVIS - INFO - ==================================================
+2026-11-20 18:13:27 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:13:27 - JARVIS - INFO - ==================================================
+2026-11-20 18:13:28 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:13:28 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:13:29 - JARVIS.bot - INFO - Synced 9 slash command(s) with Discord
+2026-11-20 18:13:29 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:13:33 - JARVIS.gemini - INFO - Gemini client initialized with model: gemini-2.5-flash
+2026-11-20 18:13:33 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:13:33 - JARVIS.events.on_ready - INFO - Slash commands registered: 9
+2026-11-20 18:13:33 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 18:13:33 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:13:53 - JARVIS - INFO - ==================================================
+2026-11-20 18:13:53 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:13:53 - JARVIS - INFO - ==================================================
+2026-11-20 18:13:54 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:13:54 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:14:26 - JARVIS - INFO - ==================================================
+2026-11-20 18:14:26 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:14:26 - JARVIS - INFO - ==================================================
+2026-11-20 18:14:27 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:14:28 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:14:55 - JARVIS - INFO - ==================================================
+2026-11-20 18:14:55 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:14:55 - JARVIS - INFO - ==================================================
+2026-11-20 18:14:56 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:14:56 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:14:56 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:15:00 - JARVIS.bot - INFO - Synced 0 slash command(s) to 1 guild(s)
+2026-11-20 18:15:01 - JARVIS.gemini - INFO - Gemini client initialized with model: gemini-2.5-flash
+2026-11-20 18:15:01 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:15:01 - JARVIS.events.on_ready - INFO - Slash commands registered: 9
+2026-11-20 18:15:01 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 18:15:01 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:15:34 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:15:35 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:15:35 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:16:01 - JARVIS - INFO - ==================================================
+2026-11-20 18:16:01 - JARVIS - INFO - Starting JARVIS Discord Bot
+2026-11-20 18:16:01 - JARVIS - INFO - ==================================================
+2026-11-20 18:16:02 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:16:03 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:16:03 - JARVIS.bot - INFO - JARVIS bot setup complete
+2026-11-20 18:16:06 - JARVIS.bot - INFO - Synced 9 slash command(s) to 1 guild(s)
+2026-11-20 18:16:07 - JARVIS.gemini - INFO - Gemini client initialized with model: gemini-2.5-flash
+2026-11-20 18:16:07 - JARVIS.events.on_ready - INFO - JARVIS is ready! Logged in as jarvis#1020
+2026-11-20 18:16:07 - JARVIS.events.on_ready - INFO - Slash commands registered: 9
+2026-11-20 18:16:07 - JARVIS.events.on_ready - INFO - Connected to 1 server(s)
+2026-11-20 18:16:07 - JARVIS.events.on_ready - INFO -   - Software Development Agency (ID: 1571498315575591013)
+2026-11-20 18:16:35 - JARVIS.bot - INFO - Setting up JARVIS bot...
+2026-11-20 18:16:35 - JARVIS.commands.register - INFO - Registered 9 slash commands
+2026-11-20 18:16:35 - JARVIS.bot - INFO - JARVIS bot setup complete
